@@ -1,9 +1,8 @@
 import React from 'react';
-import classNames from 'classnames';
 
 function Home() {
     return (
-        <div className={classNames('Home', 'foo', 'bar')}>
+        <div className={'Home'}>
             <h1>Welcome to Pony Konfigurator!</h1>
 
             <p>
