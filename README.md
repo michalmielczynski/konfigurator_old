@@ -1,2 +1,1 @@
-# based on meteor-react-boilerplate
-A starter project for Końfigurator
+Pony Konfigurator - Coder Dojo Poznan
